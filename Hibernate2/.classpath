@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="G:/All Jars/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="G:/All Jars/cdi-api-1.1.jar"/>
+	<classpathentry kind="lib" path="G:/All Jars/classmate-1.3.0.jar"/>
+	<classpathentry kind="lib" path="G:/All Jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="G:/All Jars/ehcache-2.10.3.jar"/>
+	<classpathentry kind="lib" path="G:/All Jars/el-api-2.2.jar"/>
+	<classpathentry kind="lib" path="G:/All Jars/geronimo-jta_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/All Jars/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="G:/All Jars/hibernate-core-5.2.4.Final.jar" sourcepath="G:/CJC Softwares/hibernate-release-5.1.10.Final"/>
+	<classpathentry kind="lib" path="G:/All Jars/hibernate-ehcache-5.2.17.Final.jar"/>
+	<classpathentry kind="lib" path="G:/All Jars/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="G:/All Jars/jandex-2.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="G:/All Jars/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="G:/All Jars/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="G:/All Jars/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar"/>
+	<classpathentry kind="lib" path="G:/All Jars/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="G:/All Jars/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="G:/All Jars/mysql-connector-java-5.1.14.jar"/>
+	<classpathentry kind="lib" path="G:/All Jars/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="G:/All Jars/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
